@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "ltd.v2.startrekAi.app-debug-76:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "ltd.v2.startrekAi.app-main-78:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "ltd.v2.startrekAi.app-debug-76:/drawable_swap.png.flat",
+        "source": "ltd.v2.startrekAi.app-main-78:/drawable/swap.png"
+    },
+    {
+        "merged": "ltd.v2.startrekAi.app-debug-76:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "ltd.v2.startrekAi.app-main-78:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "ltd.v2.startrekAi.app-debug-76:/drawable_ic_launcher_background.xml.flat",
+        "source": "ltd.v2.startrekAi.app-main-78:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "ltd.v2.startrekAi.app-debug-76:/drawable_resume.png.flat",
+        "source": "ltd.v2.startrekAi.app-main-78:/drawable/resume.png"
+    },
+    {
+        "merged": "ltd.v2.startrekAi.app-debug-76:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "ltd.v2.startrekAi.app-main-78:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "ltd.v2.startrekAi.app-debug-76:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "ltd.v2.startrekAi.app-main-78:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "ltd.v2.startrekAi.app-debug-76:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "ltd.v2.startrekAi.app-main-78:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "ltd.v2.startrekAi.app-debug-76:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "ltd.v2.startrekAi.app-main-78:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "ltd.v2.startrekAi.app-debug-76:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "ltd.v2.startrekAi.app-main-78:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "ltd.v2.startrekAi.app-debug-76:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "ltd.v2.startrekAi.app-main-78:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "ltd.v2.startrekAi.app-debug-76:/xml_backup_rules.xml.flat",
+        "source": "ltd.v2.startrekAi.app-main-78:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "ltd.v2.startrekAi.app-debug-76:/drawable_grammar.png.flat",
+        "source": "ltd.v2.startrekAi.app-main-78:/drawable/grammar.png"
+    },
+    {
+        "merged": "ltd.v2.startrekAi.app-debug-76:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "ltd.v2.startrekAi.app-main-78:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "ltd.v2.startrekAi.app-debug-76:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "ltd.v2.startrekAi.app-main-78:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "ltd.v2.startrekAi.app-debug-76:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "ltd.v2.startrekAi.app-main-78:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "ltd.v2.startrekAi.app-debug-76:/drawable_response.png.flat",
+        "source": "ltd.v2.startrekAi.app-main-78:/drawable/response.png"
+    },
+    {
+        "merged": "ltd.v2.startrekAi.app-debug-76:/drawable_abbreviation.png.flat",
+        "source": "ltd.v2.startrekAi.app-main-78:/drawable/abbreviation.png"
+    },
+    {
+        "merged": "ltd.v2.startrekAi.app-debug-76:/xml_data_extraction_rules.xml.flat",
+        "source": "ltd.v2.startrekAi.app-main-78:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "ltd.v2.startrekAi.app-debug-76:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "ltd.v2.startrekAi.app-main-78:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "ltd.v2.startrekAi.app-debug-76:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "ltd.v2.startrekAi.app-main-78:/mipmap-hdpi/ic_launcher.webp"
+    }
+]

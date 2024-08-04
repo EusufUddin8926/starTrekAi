@@ -1,0 +1,79 @@
+ltd.v2.startrekAi.app-lifecycle-viewmodel-release-0 C:\Users\hp\.gradle\caches\transforms-4\0b91e81aac77d9476322659bb3d834ce\transformed\lifecycle-viewmodel-release\res
+ltd.v2.startrekAi.app-lifecycle-runtime-release-1 C:\Users\hp\.gradle\caches\transforms-4\0bbfba5cc8466cd85115b44e436f2c07\transformed\lifecycle-runtime-release\res
+ltd.v2.startrekAi.app-transition-1.4.1-2 C:\Users\hp\.gradle\caches\transforms-4\0d9c4d2eb0c593af0ca42bd9ff24cc1b\transformed\transition-1.4.1\res
+ltd.v2.startrekAi.app-annotation-experimental-1.4.0-3 C:\Users\hp\.gradle\caches\transforms-4\185b52313ca848a957923efeb0835aa7\transformed\annotation-experimental-1.4.0\res
+ltd.v2.startrekAi.app-activity-1.9.0-4 C:\Users\hp\.gradle\caches\transforms-4\1c8428421186a9862a70c2a7a7b2a3ed\transformed\activity-1.9.0\res
+ltd.v2.startrekAi.app-fragment-ktx-1.6.2-5 C:\Users\hp\.gradle\caches\transforms-4\1efb963aed4625c36ebfc91d80991a2d\transformed\fragment-ktx-1.6.2\res
+ltd.v2.startrekAi.app-runtime-release-6 C:\Users\hp\.gradle\caches\transforms-4\25146bcb339f5a701c7c29ca82f90190\transformed\runtime-release\res
+ltd.v2.startrekAi.app-fragment-1.6.2-7 C:\Users\hp\.gradle\caches\transforms-4\2b2ec4c2e3cce5f01fac88bd89a9fbb7\transformed\fragment-1.6.2\res
+ltd.v2.startrekAi.app-lifecycle-process-2.8.2-8 C:\Users\hp\.gradle\caches\transforms-4\2e4083aaf8ceb90338a74e948d2fe47d\transformed\lifecycle-process-2.8.2\res
+ltd.v2.startrekAi.app-core-1.13.1-9 C:\Users\hp\.gradle\caches\transforms-4\2e5e203c2a3eb7945fc3d3c38dbc22f5\transformed\core-1.13.1\res
+ltd.v2.startrekAi.app-lifecycle-runtime-ktx-release-10 C:\Users\hp\.gradle\caches\transforms-4\2f33b651bfe93ef9692a69262beeef07\transformed\lifecycle-runtime-ktx-release\res
+ltd.v2.startrekAi.app-constraintlayout-2.0.1-11 C:\Users\hp\.gradle\caches\transforms-4\30122466f65b97c284fd81ed18df1d12\transformed\constraintlayout-2.0.1\res
+ltd.v2.startrekAi.app-core-runtime-2.2.0-12 C:\Users\hp\.gradle\caches\transforms-4\312532f7e6c8a627b84a5db2e6906cfc\transformed\core-runtime-2.2.0\res
+ltd.v2.startrekAi.app-navigation-common-2.7.7-13 C:\Users\hp\.gradle\caches\transforms-4\33416c4a9b2d6a255ef1df4c4010dfea\transformed\navigation-common-2.7.7\res
+ltd.v2.startrekAi.app-ui-graphics-release-14 C:\Users\hp\.gradle\caches\transforms-4\34b10abe4351157dd4fd7548d3385581\transformed\ui-graphics-release\res
+ltd.v2.startrekAi.app-navigation-fragment-ktx-2.7.7-15 C:\Users\hp\.gradle\caches\transforms-4\3654a945bb30026c3453417c984c084c\transformed\navigation-fragment-ktx-2.7.7\res
+ltd.v2.startrekAi.app-lifecycle-livedata-2.8.2-16 C:\Users\hp\.gradle\caches\transforms-4\36c62e6927d166e6f236a5487791b4c0\transformed\lifecycle-livedata-2.8.2\res
+ltd.v2.startrekAi.app-runtime-livedata-1.6.8-17 C:\Users\hp\.gradle\caches\transforms-4\38e43703e10e96f0bc1743f473f10a7c\transformed\runtime-livedata-1.6.8\res
+ltd.v2.startrekAi.app-recyclerview-1.1.0-18 C:\Users\hp\.gradle\caches\transforms-4\3defa1b819a9f414ae8caa1c2beb6fda\transformed\recyclerview-1.1.0\res
+ltd.v2.startrekAi.app-material3-release-19 C:\Users\hp\.gradle\caches\transforms-4\4105ec121c45a53e199b739272ded62a\transformed\material3-release\res
+ltd.v2.startrekAi.app-ui-unit-release-20 C:\Users\hp\.gradle\caches\transforms-4\4763f8ded18509743724baa5f65d9e41\transformed\ui-unit-release\res
+ltd.v2.startrekAi.app-foundation-release-21 C:\Users\hp\.gradle\caches\transforms-4\4f477b7433e68e8e0ec622b2ab0f5354\transformed\foundation-release\res
+ltd.v2.startrekAi.app-material-icons-core-release-22 C:\Users\hp\.gradle\caches\transforms-4\51f3414085a6fdf3bf7e50c566a37175\transformed\material-icons-core-release\res
+ltd.v2.startrekAi.app-savedstate-1.2.1-23 C:\Users\hp\.gradle\caches\transforms-4\5223ba0e31de38822bd372e10df50198\transformed\savedstate-1.2.1\res
+ltd.v2.startrekAi.app-coordinatorlayout-1.1.0-24 C:\Users\hp\.gradle\caches\transforms-4\5429db647760bed82a48f233000fbc94\transformed\coordinatorlayout-1.1.0\res
+ltd.v2.startrekAi.app-navigation-runtime-2.7.7-25 C:\Users\hp\.gradle\caches\transforms-4\554b5c0f265d919cdaf26de80b0b54e7\transformed\navigation-runtime-2.7.7\res
+ltd.v2.startrekAi.app-emoji2-1.3.0-26 C:\Users\hp\.gradle\caches\transforms-4\57468ee9f070d76b5183c1e98f223984\transformed\emoji2-1.3.0\res
+ltd.v2.startrekAi.app-cardview-1.0.0-27 C:\Users\hp\.gradle\caches\transforms-4\5b50d678ae2f041e9e157525dd864066\transformed\cardview-1.0.0\res
+ltd.v2.startrekAi.app-animation-release-28 C:\Users\hp\.gradle\caches\transforms-4\67cd21df7bf8984c3e5b6cb21ce6d2d3\transformed\animation-release\res
+ltd.v2.startrekAi.app-savedstate-ktx-1.2.1-29 C:\Users\hp\.gradle\caches\transforms-4\68bc41e65d7b021232ef852a1163b2ff\transformed\savedstate-ktx-1.2.1\res
+ltd.v2.startrekAi.app-navigation-runtime-ktx-2.7.7-30 C:\Users\hp\.gradle\caches\transforms-4\68e6b0ebcac9db2cc3c28de71b04be50\transformed\navigation-runtime-ktx-2.7.7\res
+ltd.v2.startrekAi.app-ui-tooling-preview-release-31 C:\Users\hp\.gradle\caches\transforms-4\715169990455b48391821dc8d22f46d6\transformed\ui-tooling-preview-release\res
+ltd.v2.startrekAi.app-material-ripple-release-32 C:\Users\hp\.gradle\caches\transforms-4\7169a541ed285254d86a748a64771197\transformed\material-ripple-release\res
+ltd.v2.startrekAi.app-ui-geometry-release-33 C:\Users\hp\.gradle\caches\transforms-4\7b297c3691d1132cbc02224e79968979\transformed\ui-geometry-release\res
+ltd.v2.startrekAi.app-lifecycle-livedata-ktx-2.8.2-34 C:\Users\hp\.gradle\caches\transforms-4\7f20989d46a58c6b37bf417c5d6dd339\transformed\lifecycle-livedata-ktx-2.8.2\res
+ltd.v2.startrekAi.app-viewpager2-1.0.0-35 C:\Users\hp\.gradle\caches\transforms-4\84128b90b108a8786ec135ce1742d8c2\transformed\viewpager2-1.0.0\res
+ltd.v2.startrekAi.app-appcompat-resources-1.7.0-36 C:\Users\hp\.gradle\caches\transforms-4\84b5c0634e9b11d6056ffe92ed538cd7\transformed\appcompat-resources-1.7.0\res
+ltd.v2.startrekAi.app-activity-compose-1.9.0-37 C:\Users\hp\.gradle\caches\transforms-4\8f614d6945e79657e1711ead654ae746\transformed\activity-compose-1.9.0\res
+ltd.v2.startrekAi.app-drawerlayout-1.1.1-38 C:\Users\hp\.gradle\caches\transforms-4\900952050a7d906f243d8b665a901103\transformed\drawerlayout-1.1.1\res
+ltd.v2.startrekAi.app-navigation-ui-ktx-2.7.7-39 C:\Users\hp\.gradle\caches\transforms-4\92a3cf443effbf92595e5e671973fbe2\transformed\navigation-ui-ktx-2.7.7\res
+ltd.v2.startrekAi.app-profileinstaller-1.3.1-40 C:\Users\hp\.gradle\caches\transforms-4\949cb6959e4a9baeab15af99d8ebc386\transformed\profileinstaller-1.3.1\res
+ltd.v2.startrekAi.app-Toasty-1.5.2-41 C:\Users\hp\.gradle\caches\transforms-4\9716e2fa991054fda53e1afe0c4eeb08\transformed\Toasty-1.5.2\res
+ltd.v2.startrekAi.app-ui-test-manifest-1.6.8-42 C:\Users\hp\.gradle\caches\transforms-4\97abe1e59a0b6d7aace6cfacfd400f35\transformed\ui-test-manifest-1.6.8\res
+ltd.v2.startrekAi.app-material-release-43 C:\Users\hp\.gradle\caches\transforms-4\997b5d2209c12dc751af5e3510d21f40\transformed\material-release\res
+ltd.v2.startrekAi.app-startup-runtime-1.1.1-44 C:\Users\hp\.gradle\caches\transforms-4\9a51c46f2ffc42e0b295824698b8715f\transformed\startup-runtime-1.1.1\res
+ltd.v2.startrekAi.app-navigation-ui-2.7.7-45 C:\Users\hp\.gradle\caches\transforms-4\9bb8e93c4700b5b288339ea37b09bc81\transformed\navigation-ui-2.7.7\res
+ltd.v2.startrekAi.app-ui-tooling-data-release-46 C:\Users\hp\.gradle\caches\transforms-4\a1f36d1dbe2beda46b526654887c2260\transformed\ui-tooling-data-release\res
+ltd.v2.startrekAi.app-navigation-compose-2.7.7-47 C:\Users\hp\.gradle\caches\transforms-4\ae4dd872a0bf073e34d38962774d5727\transformed\navigation-compose-2.7.7\res
+ltd.v2.startrekAi.app-lifecycle-livedata-core-ktx-2.8.2-48 C:\Users\hp\.gradle\caches\transforms-4\b3ee740cfb8ffe189b9d971e94951c41\transformed\lifecycle-livedata-core-ktx-2.8.2\res
+ltd.v2.startrekAi.app-lifecycle-livedata-core-2.8.2-49 C:\Users\hp\.gradle\caches\transforms-4\b6b6c9cd6f42e5b46a17d05ee04c8b49\transformed\lifecycle-livedata-core-2.8.2\res
+ltd.v2.startrekAi.app-runtime-saveable-release-50 C:\Users\hp\.gradle\caches\transforms-4\bb7f577dba090ddef31ec85174b8b72f\transformed\runtime-saveable-release\res
+ltd.v2.startrekAi.app-window-1.0.0-51 C:\Users\hp\.gradle\caches\transforms-4\bf55d70c02f06bf3026713d9c6e909dc\transformed\window-1.0.0\res
+ltd.v2.startrekAi.app-customview-poolingcontainer-1.0.0-52 C:\Users\hp\.gradle\caches\transforms-4\c3e981a6921735ee8edc2003c65c3db7\transformed\customview-poolingcontainer-1.0.0\res
+ltd.v2.startrekAi.app-ui-util-release-53 C:\Users\hp\.gradle\caches\transforms-4\c685e0a37ef4f5fe16134e6dfebf610b\transformed\ui-util-release\res
+ltd.v2.startrekAi.app-lifecycle-viewmodel-ktx-2.8.2-54 C:\Users\hp\.gradle\caches\transforms-4\ccacb73cc576773b6fda62df41e95105\transformed\lifecycle-viewmodel-ktx-2.8.2\res
+ltd.v2.startrekAi.app-navigation-fragment-2.7.7-55 C:\Users\hp\.gradle\caches\transforms-4\cd39045bd41ac8b24df0fe7c2a1723c3\transformed\navigation-fragment-2.7.7\res
+ltd.v2.startrekAi.app-slidingpanelayout-1.2.0-56 C:\Users\hp\.gradle\caches\transforms-4\cebead02379b9a13025d641021a4efa5\transformed\slidingpanelayout-1.2.0\res
+ltd.v2.startrekAi.app-ui-tooling-release-57 C:\Users\hp\.gradle\caches\transforms-4\cfab25c37214cf33e8fee387508586a6\transformed\ui-tooling-release\res
+ltd.v2.startrekAi.app-ui-release-58 C:\Users\hp\.gradle\caches\transforms-4\d27f06910535df6dae4ce2751b7ce290\transformed\ui-release\res
+ltd.v2.startrekAi.app-lifecycle-viewmodel-savedstate-2.8.2-59 C:\Users\hp\.gradle\caches\transforms-4\d4b5be3c0578cb9b93f86910ec8c50f3\transformed\lifecycle-viewmodel-savedstate-2.8.2\res
+ltd.v2.startrekAi.app-emoji2-views-helper-1.3.0-60 C:\Users\hp\.gradle\caches\transforms-4\d6d8e88714f79900f141ba372157660f\transformed\emoji2-views-helper-1.3.0\res
+ltd.v2.startrekAi.app-appcompat-1.7.0-61 C:\Users\hp\.gradle\caches\transforms-4\d7645be81d94281a8378dab5b4f02dd0\transformed\appcompat-1.7.0\res
+ltd.v2.startrekAi.app-foundation-layout-release-62 C:\Users\hp\.gradle\caches\transforms-4\dbab77a943dd29197ff363be80b149a7\transformed\foundation-layout-release\res
+ltd.v2.startrekAi.app-lifecycle-viewmodel-compose-release-63 C:\Users\hp\.gradle\caches\transforms-4\df76eaa9f6ab70d315d746f20c6e6a37\transformed\lifecycle-viewmodel-compose-release\res
+ltd.v2.startrekAi.app-ui-text-release-64 C:\Users\hp\.gradle\caches\transforms-4\e0660360399543d4a44533610a39e344\transformed\ui-text-release\res
+ltd.v2.startrekAi.app-glide-4.16.0-65 C:\Users\hp\.gradle\caches\transforms-4\e15d09b553d0fc926712b18fe425e439\transformed\glide-4.16.0\res
+ltd.v2.startrekAi.app-material-1.4.0-beta01-66 C:\Users\hp\.gradle\caches\transforms-4\eb5913639a4cbb93678535d19c50e4d7\transformed\material-1.4.0-beta01\res
+ltd.v2.startrekAi.app-activity-ktx-1.9.0-67 C:\Users\hp\.gradle\caches\transforms-4\f638110c677672a5d53b692819fdd331\transformed\activity-ktx-1.9.0\res
+ltd.v2.startrekAi.app-coil-base-2.0.0-68 C:\Users\hp\.gradle\caches\transforms-4\f958e31c508028013545c2d7f73bcf1c\transformed\coil-base-2.0.0\res
+ltd.v2.startrekAi.app-core-ktx-1.13.1-69 C:\Users\hp\.gradle\caches\transforms-4\fb2e03c2ec3c02c22e2c2fec20b462b1\transformed\core-ktx-1.13.1\res
+ltd.v2.startrekAi.app-animation-core-release-70 C:\Users\hp\.gradle\caches\transforms-4\fe767d7e46ba781dcecf4814b6d5198f\transformed\animation-core-release\res
+ltd.v2.startrekAi.app-navigation-common-ktx-2.7.7-71 C:\Users\hp\.gradle\caches\transforms-4\ff679040681bb7b0066cc19ca9c8983e\transformed\navigation-common-ktx-2.7.7\res
+ltd.v2.startrekAi.app-resValues-72 D:\starTrekLibraryTest\StarTrek AI\ai-tools-android\app\build\generated\res\resValues\debug
+ltd.v2.startrekAi.app-packageDebugResources-73 D:\starTrekLibraryTest\StarTrek AI\ai-tools-android\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+ltd.v2.startrekAi.app-packageDebugResources-74 D:\starTrekLibraryTest\StarTrek AI\ai-tools-android\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+ltd.v2.startrekAi.app-debug-75 D:\starTrekLibraryTest\StarTrek AI\ai-tools-android\app\build\intermediates\merged_res\debug\mergeDebugResources
+ltd.v2.startrekAi.app-debug-76 D:\starTrekLibraryTest\StarTrek AI\ai-tools-android\app\src\debug\res
+ltd.v2.startrekAi.app-main-77 D:\starTrekLibraryTest\StarTrek AI\ai-tools-android\app\src\main\res
+ltd.v2.startrekAi.app-debug-78 D:\starTrekLibraryTest\StarTrek AI\ai-tools-android\productivity\build\intermediates\packaged_res\debug\packageDebugResources

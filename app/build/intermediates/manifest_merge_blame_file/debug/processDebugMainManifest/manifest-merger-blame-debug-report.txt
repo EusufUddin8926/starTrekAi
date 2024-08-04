@@ -1,0 +1,188 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="ltd.v2.startrekAi"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+9        android:targetSdkVersion="34" />
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->D:\starTrekLibraryTest\StarTrek AI\ai-tools-android\app\src\main\AndroidManifest.xml:4:5-67
+11-->D:\starTrekLibraryTest\StarTrek AI\ai-tools-android\app\src\main\AndroidManifest.xml:4:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->[:productivity] D:\starTrekLibraryTest\StarTrek AI\ai-tools-android\productivity\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:9:5-79
+12-->[:productivity] D:\starTrekLibraryTest\StarTrek AI\ai-tools-android\productivity\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:9:22-76
+13    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+13-->[:productivity] D:\starTrekLibraryTest\StarTrek AI\ai-tools-android\productivity\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:10:5-76
+13-->[:productivity] D:\starTrekLibraryTest\StarTrek AI\ai-tools-android\productivity\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:10:22-73
+14
+15    <permission
+15-->[androidx.core:core:1.13.1] C:\Users\hp\.gradle\caches\transforms-4\2e5e203c2a3eb7945fc3d3c38dbc22f5\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+16        android:name="ltd.v2.startrekAi.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+16-->[androidx.core:core:1.13.1] C:\Users\hp\.gradle\caches\transforms-4\2e5e203c2a3eb7945fc3d3c38dbc22f5\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+17        android:protectionLevel="signature" />
+17-->[androidx.core:core:1.13.1] C:\Users\hp\.gradle\caches\transforms-4\2e5e203c2a3eb7945fc3d3c38dbc22f5\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+18
+19    <uses-permission android:name="ltd.v2.startrekAi.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+19-->[androidx.core:core:1.13.1] C:\Users\hp\.gradle\caches\transforms-4\2e5e203c2a3eb7945fc3d3c38dbc22f5\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+19-->[androidx.core:core:1.13.1] C:\Users\hp\.gradle\caches\transforms-4\2e5e203c2a3eb7945fc3d3c38dbc22f5\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+20
+21    <application
+21-->D:\starTrekLibraryTest\StarTrek AI\ai-tools-android\app\src\main\AndroidManifest.xml:6:5-29:19
+22        android:name="ltd.v2.starTrekAi.ProductivityApplication"
+22-->[:productivity] D:\starTrekLibraryTest\StarTrek AI\ai-tools-android\productivity\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:13:9-65
+23        android:allowBackup="true"
+23-->D:\starTrekLibraryTest\StarTrek AI\ai-tools-android\app\src\main\AndroidManifest.xml:7:9-35
+24        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+24-->[androidx.core:core:1.13.1] C:\Users\hp\.gradle\caches\transforms-4\2e5e203c2a3eb7945fc3d3c38dbc22f5\transformed\core-1.13.1\AndroidManifest.xml:28:18-86
+25        android:dataExtractionRules="@xml/data_extraction_rules"
+25-->D:\starTrekLibraryTest\StarTrek AI\ai-tools-android\app\src\main\AndroidManifest.xml:8:9-65
+26        android:debuggable="true"
+27        android:extractNativeLibs="false"
+28        android:fullBackupContent="@xml/backup_rules"
+28-->D:\starTrekLibraryTest\StarTrek AI\ai-tools-android\app\src\main\AndroidManifest.xml:9:9-54
+29        android:icon="@mipmap/ic_launcher"
+29-->D:\starTrekLibraryTest\StarTrek AI\ai-tools-android\app\src\main\AndroidManifest.xml:10:9-43
+30        android:label="@string/app_name"
+30-->D:\starTrekLibraryTest\StarTrek AI\ai-tools-android\app\src\main\AndroidManifest.xml:11:9-41
+31        android:roundIcon="@mipmap/ic_launcher_round"
+31-->D:\starTrekLibraryTest\StarTrek AI\ai-tools-android\app\src\main\AndroidManifest.xml:12:9-54
+32        android:supportsRtl="true"
+32-->D:\starTrekLibraryTest\StarTrek AI\ai-tools-android\app\src\main\AndroidManifest.xml:13:9-35
+33        android:testOnly="true"
+34        android:theme="@style/Theme.StarTrekAI"
+34-->D:\starTrekLibraryTest\StarTrek AI\ai-tools-android\app\src\main\AndroidManifest.xml:15:9-48
+35        android:usesCleartextTraffic="true" >
+35-->D:\starTrekLibraryTest\StarTrek AI\ai-tools-android\app\src\main\AndroidManifest.xml:14:9-44
+36        <activity
+36-->D:\starTrekLibraryTest\StarTrek AI\ai-tools-android\app\src\main\AndroidManifest.xml:17:9-28:20
+37            android:name="ltd.v2.startrekAi.MainActivity"
+37-->D:\starTrekLibraryTest\StarTrek AI\ai-tools-android\app\src\main\AndroidManifest.xml:18:13-41
+38            android:exported="true"
+38-->D:\starTrekLibraryTest\StarTrek AI\ai-tools-android\app\src\main\AndroidManifest.xml:19:13-36
+39            android:label="@string/app_name"
+39-->D:\starTrekLibraryTest\StarTrek AI\ai-tools-android\app\src\main\AndroidManifest.xml:21:13-45
+40            android:theme="@style/Theme.StarTrekAI"
+40-->D:\starTrekLibraryTest\StarTrek AI\ai-tools-android\app\src\main\AndroidManifest.xml:22:13-52
+41            android:windowSoftInputMode="adjustResize" >
+41-->D:\starTrekLibraryTest\StarTrek AI\ai-tools-android\app\src\main\AndroidManifest.xml:20:13-55
+42            <intent-filter>
+42-->D:\starTrekLibraryTest\StarTrek AI\ai-tools-android\app\src\main\AndroidManifest.xml:23:13-27:29
+43                <action android:name="android.intent.action.MAIN" />
+43-->D:\starTrekLibraryTest\StarTrek AI\ai-tools-android\app\src\main\AndroidManifest.xml:24:17-69
+43-->D:\starTrekLibraryTest\StarTrek AI\ai-tools-android\app\src\main\AndroidManifest.xml:24:25-66
+44
+45                <category android:name="android.intent.category.LAUNCHER" />
+45-->D:\starTrekLibraryTest\StarTrek AI\ai-tools-android\app\src\main\AndroidManifest.xml:26:17-77
+45-->D:\starTrekLibraryTest\StarTrek AI\ai-tools-android\app\src\main\AndroidManifest.xml:26:27-74
+46            </intent-filter>
+47        </activity>
+48        <activity
+48-->[:productivity] D:\starTrekLibraryTest\StarTrek AI\ai-tools-android\productivity\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:23:9-28:58
+49            android:name="ltd.v2.starTrekAi.view.MainActivity_Ai"
+49-->[:productivity] D:\starTrekLibraryTest\StarTrek AI\ai-tools-android\productivity\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:24:13-66
+50            android:exported="true"
+50-->[:productivity] D:\starTrekLibraryTest\StarTrek AI\ai-tools-android\productivity\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:25:13-36
+51            android:label="@string/app_name"
+51-->[:productivity] D:\starTrekLibraryTest\StarTrek AI\ai-tools-android\productivity\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:26:13-45
+52            android:theme="@style/Theme.StarTrekAI"
+52-->[:productivity] D:\starTrekLibraryTest\StarTrek AI\ai-tools-android\productivity\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:27:13-52
+53            android:windowSoftInputMode="adjustResize" />
+53-->[:productivity] D:\starTrekLibraryTest\StarTrek AI\ai-tools-android\productivity\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:28:13-55
+54        <activity
+54-->[androidx.compose.ui:ui-tooling-android:1.6.8] C:\Users\hp\.gradle\caches\transforms-4\cfab25c37214cf33e8fee387508586a6\transformed\ui-tooling-release\AndroidManifest.xml:23:9-25:39
+55            android:name="androidx.compose.ui.tooling.PreviewActivity"
+55-->[androidx.compose.ui:ui-tooling-android:1.6.8] C:\Users\hp\.gradle\caches\transforms-4\cfab25c37214cf33e8fee387508586a6\transformed\ui-tooling-release\AndroidManifest.xml:24:13-71
+56            android:exported="true" />
+56-->[androidx.compose.ui:ui-tooling-android:1.6.8] C:\Users\hp\.gradle\caches\transforms-4\cfab25c37214cf33e8fee387508586a6\transformed\ui-tooling-release\AndroidManifest.xml:25:13-36
+57
+58        <provider
+58-->[androidx.emoji2:emoji2:1.3.0] C:\Users\hp\.gradle\caches\transforms-4\57468ee9f070d76b5183c1e98f223984\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+59            android:name="androidx.startup.InitializationProvider"
+59-->[androidx.emoji2:emoji2:1.3.0] C:\Users\hp\.gradle\caches\transforms-4\57468ee9f070d76b5183c1e98f223984\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
+60            android:authorities="ltd.v2.startrekAi.androidx-startup"
+60-->[androidx.emoji2:emoji2:1.3.0] C:\Users\hp\.gradle\caches\transforms-4\57468ee9f070d76b5183c1e98f223984\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
+61            android:exported="false" >
+61-->[androidx.emoji2:emoji2:1.3.0] C:\Users\hp\.gradle\caches\transforms-4\57468ee9f070d76b5183c1e98f223984\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
+62            <meta-data
+62-->[androidx.emoji2:emoji2:1.3.0] C:\Users\hp\.gradle\caches\transforms-4\57468ee9f070d76b5183c1e98f223984\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+63                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+63-->[androidx.emoji2:emoji2:1.3.0] C:\Users\hp\.gradle\caches\transforms-4\57468ee9f070d76b5183c1e98f223984\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
+64                android:value="androidx.startup" />
+64-->[androidx.emoji2:emoji2:1.3.0] C:\Users\hp\.gradle\caches\transforms-4\57468ee9f070d76b5183c1e98f223984\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
+65            <meta-data
+65-->[androidx.lifecycle:lifecycle-process:2.8.2] C:\Users\hp\.gradle\caches\transforms-4\2e4083aaf8ceb90338a74e948d2fe47d\transformed\lifecycle-process-2.8.2\AndroidManifest.xml:29:13-31:52
+66                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+66-->[androidx.lifecycle:lifecycle-process:2.8.2] C:\Users\hp\.gradle\caches\transforms-4\2e4083aaf8ceb90338a74e948d2fe47d\transformed\lifecycle-process-2.8.2\AndroidManifest.xml:30:17-78
+67                android:value="androidx.startup" />
+67-->[androidx.lifecycle:lifecycle-process:2.8.2] C:\Users\hp\.gradle\caches\transforms-4\2e4083aaf8ceb90338a74e948d2fe47d\transformed\lifecycle-process-2.8.2\AndroidManifest.xml:31:17-49
+68            <meta-data
+68-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\hp\.gradle\caches\transforms-4\949cb6959e4a9baeab15af99d8ebc386\transformed\profileinstaller-1.3.1\AndroidManifest.xml:29:13-31:52
+69                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+69-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\hp\.gradle\caches\transforms-4\949cb6959e4a9baeab15af99d8ebc386\transformed\profileinstaller-1.3.1\AndroidManifest.xml:30:17-85
+70                android:value="androidx.startup" />
+70-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\hp\.gradle\caches\transforms-4\949cb6959e4a9baeab15af99d8ebc386\transformed\profileinstaller-1.3.1\AndroidManifest.xml:31:17-49
+71        </provider>
+72
+73        <uses-library
+73-->[androidx.window:window:1.0.0] C:\Users\hp\.gradle\caches\transforms-4\bf55d70c02f06bf3026713d9c6e909dc\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
+74            android:name="androidx.window.extensions"
+74-->[androidx.window:window:1.0.0] C:\Users\hp\.gradle\caches\transforms-4\bf55d70c02f06bf3026713d9c6e909dc\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
+75            android:required="false" />
+75-->[androidx.window:window:1.0.0] C:\Users\hp\.gradle\caches\transforms-4\bf55d70c02f06bf3026713d9c6e909dc\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
+76        <uses-library
+76-->[androidx.window:window:1.0.0] C:\Users\hp\.gradle\caches\transforms-4\bf55d70c02f06bf3026713d9c6e909dc\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
+77            android:name="androidx.window.sidecar"
+77-->[androidx.window:window:1.0.0] C:\Users\hp\.gradle\caches\transforms-4\bf55d70c02f06bf3026713d9c6e909dc\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
+78            android:required="false" />
+78-->[androidx.window:window:1.0.0] C:\Users\hp\.gradle\caches\transforms-4\bf55d70c02f06bf3026713d9c6e909dc\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
+79
+80        <activity
+80-->[androidx.compose.ui:ui-test-manifest:1.6.8] C:\Users\hp\.gradle\caches\transforms-4\97abe1e59a0b6d7aace6cfacfd400f35\transformed\ui-test-manifest-1.6.8\AndroidManifest.xml:23:9-25:39
+81            android:name="androidx.activity.ComponentActivity"
+81-->[androidx.compose.ui:ui-test-manifest:1.6.8] C:\Users\hp\.gradle\caches\transforms-4\97abe1e59a0b6d7aace6cfacfd400f35\transformed\ui-test-manifest-1.6.8\AndroidManifest.xml:24:13-63
+82            android:exported="true" />
+82-->[androidx.compose.ui:ui-test-manifest:1.6.8] C:\Users\hp\.gradle\caches\transforms-4\97abe1e59a0b6d7aace6cfacfd400f35\transformed\ui-test-manifest-1.6.8\AndroidManifest.xml:25:13-36
+83
+84        <receiver
+84-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\hp\.gradle\caches\transforms-4\949cb6959e4a9baeab15af99d8ebc386\transformed\profileinstaller-1.3.1\AndroidManifest.xml:34:9-52:20
+85            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+85-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\hp\.gradle\caches\transforms-4\949cb6959e4a9baeab15af99d8ebc386\transformed\profileinstaller-1.3.1\AndroidManifest.xml:35:13-76
+86            android:directBootAware="false"
+86-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\hp\.gradle\caches\transforms-4\949cb6959e4a9baeab15af99d8ebc386\transformed\profileinstaller-1.3.1\AndroidManifest.xml:36:13-44
+87            android:enabled="true"
+87-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\hp\.gradle\caches\transforms-4\949cb6959e4a9baeab15af99d8ebc386\transformed\profileinstaller-1.3.1\AndroidManifest.xml:37:13-35
+88            android:exported="true"
+88-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\hp\.gradle\caches\transforms-4\949cb6959e4a9baeab15af99d8ebc386\transformed\profileinstaller-1.3.1\AndroidManifest.xml:38:13-36
+89            android:permission="android.permission.DUMP" >
+89-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\hp\.gradle\caches\transforms-4\949cb6959e4a9baeab15af99d8ebc386\transformed\profileinstaller-1.3.1\AndroidManifest.xml:39:13-57
+90            <intent-filter>
+90-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\hp\.gradle\caches\transforms-4\949cb6959e4a9baeab15af99d8ebc386\transformed\profileinstaller-1.3.1\AndroidManifest.xml:40:13-42:29
+91                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+91-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\hp\.gradle\caches\transforms-4\949cb6959e4a9baeab15af99d8ebc386\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:17-91
+91-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\hp\.gradle\caches\transforms-4\949cb6959e4a9baeab15af99d8ebc386\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:25-88
+92            </intent-filter>
+93            <intent-filter>
+93-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\hp\.gradle\caches\transforms-4\949cb6959e4a9baeab15af99d8ebc386\transformed\profileinstaller-1.3.1\AndroidManifest.xml:43:13-45:29
+94                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+94-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\hp\.gradle\caches\transforms-4\949cb6959e4a9baeab15af99d8ebc386\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:17-85
+94-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\hp\.gradle\caches\transforms-4\949cb6959e4a9baeab15af99d8ebc386\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:25-82
+95            </intent-filter>
+96            <intent-filter>
+96-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\hp\.gradle\caches\transforms-4\949cb6959e4a9baeab15af99d8ebc386\transformed\profileinstaller-1.3.1\AndroidManifest.xml:46:13-48:29
+97                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+97-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\hp\.gradle\caches\transforms-4\949cb6959e4a9baeab15af99d8ebc386\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:17-88
+97-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\hp\.gradle\caches\transforms-4\949cb6959e4a9baeab15af99d8ebc386\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:25-85
+98            </intent-filter>
+99            <intent-filter>
+99-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\hp\.gradle\caches\transforms-4\949cb6959e4a9baeab15af99d8ebc386\transformed\profileinstaller-1.3.1\AndroidManifest.xml:49:13-51:29
+100                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+100-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\hp\.gradle\caches\transforms-4\949cb6959e4a9baeab15af99d8ebc386\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:17-95
+100-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\hp\.gradle\caches\transforms-4\949cb6959e4a9baeab15af99d8ebc386\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:25-92
+101            </intent-filter>
+102        </receiver>
+103    </application>
+104
+105</manifest>
