@@ -1,4 +1,4 @@
-#Sun Aug 04 12:21:36 BDT 2024
+#Sun Aug 04 12:41:00 BDT 2024
 base.0=D\:\\starTrekLibraryTest\\StarTrek AI\\ai-tools-android\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 base.1=D\:\\starTrekLibraryTest\\StarTrek AI\\ai-tools-android\\app\\build\\intermediates\\dex\\debug\\mergeLibDexDebug\\0\\classes.dex
 base.10=D\:\\starTrekLibraryTest\\StarTrek AI\\ai-tools-android\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\12\\classes.dex
